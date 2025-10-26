@@ -64,3 +64,17 @@ ExtraData/
 *.parquet
 *.zip
 *.tar.gz
+
+# Data and large files
+data/
+datasets/
+ExtraData/
+Extra.ipynb
+*.csv
+*.xlsx
+*.xls
+*.json
+*.pkl
+*.parquet
+*.zip
+*.tar.gz
