@@ -50,3 +50,17 @@ dist/
 # VS Code settings
 .vscode/
 .history/
+
+# Other
+# Data and large files
+data/
+datasets/
+ExtraData/
+*.csv
+*.xlsx
+*.xls
+*.json
+*.pkl
+*.parquet
+*.zip
+*.tar.gz
