@@ -1,0 +1,52 @@
+# -----------------------------
+# Python / Data Science Project
+# -----------------------------
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.conda/
+*.env
+
+# Data and large files
+data/
+datasets/
+*.csv
+*.xlsx
+*.xls
+*.json
+*.pkl
+*.parquet
+*.zip
+*.tar.gz
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Cache and build artifacts
+.cache/
+build/
+dist/
+*.egg-info/
+*.egg
+
+# VS Code settings
+.vscode/
+.history/
