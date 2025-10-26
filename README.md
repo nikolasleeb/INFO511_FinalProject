@@ -1,5 +1,5 @@
 # Final Project for INFO 511 - Intro to Data Science 
-## (Fall 25 MS of DS @ University of Arizona)
+## (Fall '25 MS of DS @ University of Arizona)
 
 * Milestone 1 is project proposal
 * Milestone 2 is EDA checkpoint
