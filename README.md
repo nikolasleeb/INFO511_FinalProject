@@ -7,3 +7,17 @@
 * Milestone 4 is Final project due
 
 Project Document: https://drive.google.com/file/d/13CWS9x0oeh7JDBJHq_ZlC9wZggIYATyT/view?usp=sharing 
+
+
+
+Ideas for Improvement and Building:
+* use autoregressive modeling (no extradata)
+* use panel regression (no extradata)
+* use ExtraData
+  * vehicle registration
+  * fuel efficiency
+  * vehicle production
+* multivariate regression
+* random forest regressor
+* XGBoost
+* Forecasting and scenario modeling 
