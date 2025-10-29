@@ -22,3 +22,4 @@ Ideas for Improvement and Building:
 * XGBoost
 * Forecasting and scenario modeling 
 * Time-Series CV
+* use imputation to make up for missing data
