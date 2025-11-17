@@ -51,30 +51,7 @@ dist/
 .vscode/
 .history/
 
-# Other
-# Data and large files
-data/
-datasets/
-ExtraData/
-*.csv
-*.xlsx
-*.xls
-*.json
-*.pkl
-*.parquet
-*.zip
-*.tar.gz
 
-# Data and large files
-data/
-datasets/
-ExtraData/
-Extra.ipynb
-*.csv
-*.xlsx
-*.xls
-*.json
-*.pkl
-*.parquet
-*.zip
-*.tar.gz
+# Temporary files
+TEST_EDA/
+EDA.ipynb
