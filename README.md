@@ -13,7 +13,7 @@
 ---
 
 ### Project Requirements:
-[Project Requirements Document](https://drive.google.com/file/d/13CWS9x0oeh7JDBJHq_ZlC9wZggIYATyT/view?usp=sharing)
+[Project Requirements Document in Google Drive](https://drive.google.com/file/d/13CWS9x0oeh7JDBJHq_ZlC9wZggIYATyT/view?usp=sharing)
 
 * Milestone 1 is project proposal
 * Milestone 2 is EDA checkpoint
