@@ -23,24 +23,30 @@ Project Requirements Document: https://drive.google.com/file/d/13CWS9x0oeh7JDBJH
 ---
 
 ### Project Breakdown
+```text
 |---Analysis Folder
-        |---Charts Folder
-        |---Merged Data Folder
-                |---merged_gasoline_data.csv
-        |---Analysis.ipynb (all analysis work in this notebook)
+|   |---Charts Folder
+|   |---Merged Data Folder
+|   |   |---merged_gasoline_data.csv
+|   |---Analysis.ipynb (all analysis work in this notebook)
+|
 |---EDA Folder
-        |---Charts Folder
-        |---ConsumptionData Folder
-        |---PricesData Folder
-                |---merged_gasoline_data.csv
-        |---EDA.ipynb (all data cleaning and visualizations in this notebook)
+|   |---Charts Folder
+|   |---ConsumptionData Folder
+|   |---PricesData Folder
+|   |   |---merged_gasoline_data.csv
+|   |---EDA.ipynb (all data cleaning and visualizations in this notebook)
+|
 |---FinalWrittenReport
-        |---Final Written Report.docx
+|   |---Final Written Report.docx
+|
 |---Milestones
-        |---Milestone1.docx
-        |---Milestone2.docx
+|   |---Milestone1.docx
+|   |---Milestone2.docx
+|
 |---INFO 511 Final Presentation.pptx
-|---README.MD (this document)
+|---README.md (this document)
+
 ---
 
 ### Ideas for Improvement:
