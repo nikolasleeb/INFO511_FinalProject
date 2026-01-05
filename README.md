@@ -3,6 +3,15 @@
 
 ---
 
+### Project Description:
+  This project explores the relationship between U.S. Gasoline consumption and prices using datasets from the U.S. Energy Information Administration (EIA). The primary point was to investigate whether gasolines prices were meaningfully consumption patterns between 1994 and 2024.
+
+  The project is meant to demonstrate my data science knowledge learned throughout the semester. The structure of the project includes data cleaning, Exploratory Data Analysis (EDA), visualization, and basic modeling. Each dataset was cleaned and analyzed individually to understand the stats, distribution, and outliers. Then interactive visualizations were created using plotly to explore temporal patterns. The Federal Reserves CPI index was used to account for inflation over time.
+
+  After EDA for both datasets, they were merged on the Date column using an inner join. Once imported into the Analysis notebook, additional feature cleaning and transformation was performed. A simple linear regression model was then fit that could only explain 14% of the variance in gasoline consumption. Given that gasoline has an inelastic demand, the result was considered to be expected. To explore a non-linear relationship, a LOESS model was implemented that was able to explain about 38% of the data.
+
+---
+
 ### Project Requirements:
 Project Requirements Document: https://drive.google.com/file/d/13CWS9x0oeh7JDBJHq_ZlC9wZggIYATyT/view?usp=sharing 
 
@@ -13,12 +22,26 @@ Project Requirements Document: https://drive.google.com/file/d/13CWS9x0oeh7JDBJH
 
 ---
 
-### Project Description:
-  Using datasets from the U.S. Energy Infrastructure Administration, I wanted to explore Gasoline Consumption and Prices interact. After selecting the datasets, removing unneeded columns and renaming the others, I began to explore the data. For each dataset I explored the summary statistics, skew, kurtosis, and checked for outliers. Following that each dataset was individually visually explored through plotly charts such as line and bar charts, heatmaps and annotations. Once I had understood each dataset on its own, I merged the two datasets together on the Date columns using an Inner Join. After further renaming, removing of, and converting columns, I visualized the merged datasets. I then exported the dataset to a new notebook. Once the data was imported into that notebook, I double checked the shape and features of my data before attempting to fit a simple linear regression model. The model was only able to explain 14% of the data which was actually a good outcome for this project since gasoline is an elastic good and has no replacements. I then asked ChatGPT to implement me a LOESS model which was able to explain 38% of the data.
-
-  Through out the project I used ChatGPT to help better understand a data pipeline and how to code one, convert matplotlib charts to plotly charts, implement models, and debug my code.
-
-----
+### Project Breakdown
+|---Analysis Folder
+        |---Charts Folder
+        |---Merged Data Folder
+                |---merged_gasoline_data.csv
+        |---Analysis.ipynb (all analysis work in this notebook)
+|---EDA Folder
+        |---Charts Folder
+        |---ConsumptionData Folder
+        |---PricesData Folder
+                |---merged_gasoline_data.csv
+        |---EDA.ipynb (all data cleaning and visualizations in this notebook)
+|---FinalWrittenReport
+        |---Final Written Report.docx
+|---Milestones
+        |---Milestone1.docx
+        |---Milestone2.docx
+|---INFO 511 Final Presentation.pptx
+|---README.MD (this document)
+---
 
 ### Ideas for Improvement:
   * use autoregressive modeling (no extra data)
