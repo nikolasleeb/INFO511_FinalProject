@@ -69,4 +69,4 @@
   * Time-Series CV
   * use imputation to make up for missing data
 
-I had another project in INFO 523 in this same semester that I started after I had finished most of this project. The INFO 523 project had a larger scope and was not asked to be a simplified project as this was. Using this INFO 511 project, I applied my ideas for improvement including new data and experimenting with new models to complete the INFO 523 project. That project is also viewable in GitHub.
+I had another project in INFO 523 in this same semester that I started after I had finished most of this project. The INFO 523 project had a larger scope and was not asked to be a simplified project as this was. Using this INFO 511 project, I applied my ideas for improvement including new data and experimenting with new models to complete the INFO 523 project. That project is viewable [in Github, here.](https://github.com/nikolasleeb/INFO523_FinalProject)
