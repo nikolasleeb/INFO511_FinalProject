@@ -1,9 +1,11 @@
-# Final Project for INFO 511 - Intro to Data Science 
+# Final Project for INFO 511 - Intro to Data Science
+
 ## (Fall '25 MS of DS @ University of Arizona)
 
 ---
 
-### Project Description:
+### Project Description
+
   This project explores the relationship between U.S. Gasoline consumption and prices using datasets from the U.S. Energy Information Administration (EIA). The primary point was to investigate whether gasolines prices were meaningfully consumption patterns between 1994 and 2024.
 
   The project is meant to demonstrate my data science knowledge learned throughout the semester. The structure of the project includes data cleaning, Exploratory Data Analysis (EDA), visualization, and basic modeling. Each dataset was cleaned and analyzed individually to understand the stats, distribution, and outliers. Then interactive visualizations were created using plotly to explore temporal patterns. The Federal Reserves CPI index was used to account for inflation over time.
@@ -12,7 +14,8 @@
 
 ---
 
-### Project Requirements:
+### Project Requirements
+
 [Project Requirements Document in Google Drive](https://drive.google.com/file/d/13CWS9x0oeh7JDBJHq_ZlC9wZggIYATyT/view?usp=sharing)
 
 * Milestone 1 is project proposal
@@ -23,6 +26,7 @@
 ---
 
 ### Project Breakdown
+
 ```text
 |---Analysis Folder
 |   |---Charts Folder
@@ -50,8 +54,9 @@
 
 ---
 
-### Ideas for Improvement:
-  * use autoregressive modeling (no extra data)
+### Ideas for Improvement
+
+* use autoregressive modeling (no extra data)
   * use panel regression (no extra data)
   * use extra data
     * vehicle registration
@@ -60,8 +65,8 @@
   * multivariate regression
   * random forest regressor
   * XGBoost
-  * Forecasting and scenario modeling 
+  * Forecasting and scenario modeling
   * Time-Series CV
   * use imputation to make up for missing data
 
-I had another project in INFO 523 in this same semester that I started after I had finished most of this project. The INFO 523 project had a larger scope and was not asked to be a simplified project as this was. Using this INFO 511 project, I applied my ideas for improvement including new data and experimenting with new models to complete the INFO 523 project. That project is viewable in my GitHub. 
+I had another project in INFO 523 in this same semester that I started after I had finished most of this project. The INFO 523 project had a larger scope and was not asked to be a simplified project as this was. Using this INFO 511 project, I applied my ideas for improvement including new data and experimenting with new models to complete the INFO 523 project. That project is also viewable in GitHub.
